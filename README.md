@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** with expertise in building scalable web applications and cloud infrastructure. I love solving complex problems and creating innovative solutions that make a difference.
+I'm a passionate **Full Stack Developer** and **DevOps Engineer** with expertise in building scalable web applications and cloud infrastructure. I like to solve complex problems and creating innovative solutions that make a difference.
 
 - 🔭 **Currently working on:** Building microservices with Node.js and React
 - 🌱 **Currently learning:** Advanced Kubernetes orchestration and machine learning
